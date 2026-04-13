@@ -133,6 +133,6 @@ GitHub Desktop 会弹窗提示冲突，并且不会让你直接提交。
 
 B306的GitHub组织也才去年成立没多久，所以其实挺空的。现在有的仓库就是```B306-CV-Examples```、```B306-MSPM0-ModuleLibs```、```B306-STM32-GeneralLibs```、```B306-STM32-ModuleLibs```这几个。
 
-**抓  住  历  史  机  遇！**
+**巨  大  历  史  机  遇！**
 
 组织需要你们的持续贡献才能变强！（）
