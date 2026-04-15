@@ -1,0 +1,27 @@
+--cpu Cortex-M3
+"loader_car\startup_stm32f103xe.o"
+"loader_car\main.o"
+"loader_car\gpio.o"
+"loader_car\tim.o"
+"loader_car\usart.o"
+"loader_car\stm32f1xx_it.o"
+"loader_car\stm32f1xx_hal_msp.o"
+"loader_car\stm32f1xx_hal_gpio_ex.o"
+"loader_car\stm32f1xx_hal_tim.o"
+"loader_car\stm32f1xx_hal_tim_ex.o"
+"loader_car\stm32f1xx_hal.o"
+"loader_car\stm32f1xx_hal_rcc.o"
+"loader_car\stm32f1xx_hal_rcc_ex.o"
+"loader_car\stm32f1xx_hal_gpio.o"
+"loader_car\stm32f1xx_hal_dma.o"
+"loader_car\stm32f1xx_hal_cortex.o"
+"loader_car\stm32f1xx_hal_pwr.o"
+"loader_car\stm32f1xx_hal_flash.o"
+"loader_car\stm32f1xx_hal_flash_ex.o"
+"loader_car\stm32f1xx_hal_exti.o"
+"loader_car\stm32f1xx_hal_uart.o"
+"loader_car\system_stm32f1xx.o"
+--strict --scatter "loader_car\loader_car.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "loader_car.map" -o loader_car\loader_car.axf
