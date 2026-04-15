@@ -1,0 +1,8 @@
+# Keil 编译临时文件
+List/
+Obj/
+BuildOutput/
+*.uvguix*
+*.lnp
+*.plg
+*.bak
