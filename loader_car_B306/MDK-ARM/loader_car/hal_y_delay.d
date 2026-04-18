@@ -7,14 +7,14 @@ loader_car\hal_y_delay.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.
 loader_car\hal_y_delay.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
 loader_car\hal_y_delay.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xe.h
 loader_car\hal_y_delay.o: ../Drivers/CMSIS/Include/core_cm3.h
-loader_car\hal_y_delay.o: D:\my_old_keil\ARM\ARMCC\Bin\..\include\stdint.h
+loader_car\hal_y_delay.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
 loader_car\hal_y_delay.o: ../Drivers/CMSIS/Include/cmsis_version.h
 loader_car\hal_y_delay.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
 loader_car\hal_y_delay.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
 loader_car\hal_y_delay.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h
 loader_car\hal_y_delay.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
 loader_car\hal_y_delay.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
-loader_car\hal_y_delay.o: D:\my_old_keil\ARM\ARMCC\Bin\..\include\stddef.h
+loader_car\hal_y_delay.o: D:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
 loader_car\hal_y_delay.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h
 loader_car\hal_y_delay.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h
 loader_car\hal_y_delay.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h
