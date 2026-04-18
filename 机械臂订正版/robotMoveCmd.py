@@ -2,6 +2,7 @@ from pyb import UART
 import time
 
 
+
 class RobotMoveCmd():
 	uart = UART(3, 115200)  # 设置串口波特率，与stm32一致
 	uart.init(115200, bits=8, parity=None, stop=1)
