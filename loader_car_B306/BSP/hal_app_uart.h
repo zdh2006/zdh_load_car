@@ -12,4 +12,5 @@
 
 void app_uart_init(void);
 
+
 #endif /* HAL_APP_UART_H */
